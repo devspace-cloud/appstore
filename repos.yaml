@@ -7,7 +7,7 @@
 sync:
   repos:
     - name: devspace
-      url: https://charts.devspace.sh/
+      url: https://charts.devspace.sh
     # Helm hosted repositories
     - name: stable
       url: https://kubernetes-charts.storage.googleapis.com
