@@ -6,6 +6,8 @@
 # The name and URL between both files must be the same.
 sync:
   repos:
+    - name: devspace
+      url: https://charts.devspace.sh/
     # Helm hosted repositories
     - name: stable
       url: https://kubernetes-charts.storage.googleapis.com
